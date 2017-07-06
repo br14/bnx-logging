@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <includedPredefinedLibrary name="Node.js Core" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <exe-path>$USER_HOME$/AppData/Roaming/npm/bower.cmd</exe-path>
+    <config-path />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Vue</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectResources">
+    <resource url="sap.m" location="$PROJECT_DIR$/../../openui5/ui5sdk/downloads/schemas/sap.m.xsd" />
+    <resource url="sap.ui.core" location="$PROJECT_DIR$/../../openui5/ui5sdk/downloads/schemas/sap.ui.core.xsd" />
+    <resource url="sap.ui.layout" location="$PROJECT_DIR$/../../openui5/ui5sdk/downloads/schemas/sap.ui.layout.xsd" />
+    <resource url="sap.ui.table" location="$PROJECT_DIR$/../../openui5/ui5sdk/downloads/schemas/sap.ui.table.xsd" />
+  </component>
+</project>

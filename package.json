@@ -1,0 +1,15 @@
+{
+  "name": "@bnx/bnx-logging",
+  "version": "1.0.0",
+  "description": "Log data for Bianix modules",
+  "main": "test.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "Peter",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^6.1.2",
+    "pg-pool": "^1.6.0"
+  }
+}
